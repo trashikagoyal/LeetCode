@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/trashikagoyal/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/trashikagoyal/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/trashikagoyal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/trashikagoyal/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/trashikagoyal/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/trashikagoyal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2857-total-distance-traveled](https://github.com/trashikagoyal/LeetCode/tree/master/2857-total-distance-traveled) |
 ## Two Pointers
