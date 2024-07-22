@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/trashikagoyal/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1954-replace-all-digits-with-characters](https://github.com/trashikagoyal/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/trashikagoyal/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trashikagoyal/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/trashikagoyal/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
