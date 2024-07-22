@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/trashikagoyal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/trashikagoyal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trashikagoyal/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/trashikagoyal/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/trashikagoyal/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/trashikagoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/trashikagoyal/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/trashikagoyal/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/trashikagoyal/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/trashikagoyal/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/trashikagoyal/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/trashikagoyal/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
