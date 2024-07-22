@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/trashikagoyal/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/trashikagoyal/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/trashikagoyal/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/trashikagoyal/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/trashikagoyal/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/trashikagoyal/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/trashikagoyal/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
