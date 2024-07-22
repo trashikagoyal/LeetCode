@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/trashikagoyal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trashikagoyal/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/trashikagoyal/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1293-three-consecutive-odds](https://github.com/trashikagoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/trashikagoyal/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/trashikagoyal/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
