@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/trashikagoyal/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2857-total-distance-traveled](https://github.com/trashikagoyal/LeetCode/tree/master/2857-total-distance-traveled) |
 ## Tree
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/trashikagoyal/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Math
+|  |
+| ------- |
+| [2857-total-distance-traveled](https://github.com/trashikagoyal/LeetCode/tree/master/2857-total-distance-traveled) |
 <!---LeetCode Topics End-->
