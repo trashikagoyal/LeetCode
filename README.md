@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/trashikagoyal/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/trashikagoyal/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/trashikagoyal/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/trashikagoyal/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/trashikagoyal/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/trashikagoyal/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trashikagoyal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
+| [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/trashikagoyal/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trashikagoyal/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/trashikagoyal/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/trashikagoyal/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
