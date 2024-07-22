@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/trashikagoyal/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/trashikagoyal/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/trashikagoyal/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/trashikagoyal/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Binary Search
+|  |
+| ------- |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/trashikagoyal/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
