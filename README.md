@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/trashikagoyal/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2058-concatenation-of-array](https://github.com/trashikagoyal/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/trashikagoyal/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/trashikagoyal/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/trashikagoyal/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/trashikagoyal/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/trashikagoyal/LeetCode/tree/master/2502-sort-the-people) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/trashikagoyal/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/trashikagoyal/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
