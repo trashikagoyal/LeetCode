@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1797-goal-parser-interpretation](https://github.com/trashikagoyal/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/trashikagoyal/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/trashikagoyal/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/trashikagoyal/LeetCode/tree/master/2502-sort-the-people) |
