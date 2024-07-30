@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/trashikagoyal/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1449-print-words-vertically](https://github.com/trashikagoyal/LeetCode/tree/master/1449-print-words-vertically) |
 | [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/trashikagoyal/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1797-goal-parser-interpretation](https://github.com/trashikagoyal/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1954-replace-all-digits-with-characters](https://github.com/trashikagoyal/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/trashikagoyal/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trashikagoyal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/trashikagoyal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trashikagoyal/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/trashikagoyal/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/trashikagoyal/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/trashikagoyal/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/trashikagoyal/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
