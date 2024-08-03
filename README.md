@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/trashikagoyal/LeetCode/tree/master/1449-print-words-vertically) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/trashikagoyal/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/trashikagoyal/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/trashikagoyal/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/trashikagoyal/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/trashikagoyal/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/trashikagoyal/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1281-can-make-palindrome-from-substring](https://github.com/trashikagoyal/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/trashikagoyal/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/trashikagoyal/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/trashikagoyal/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/trashikagoyal/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/trashikagoyal/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/trashikagoyal/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/trashikagoyal/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/trashikagoyal/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/trashikagoyal/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/trashikagoyal/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/trashikagoyal/LeetCode/tree/master/2502-sort-the-people) |
