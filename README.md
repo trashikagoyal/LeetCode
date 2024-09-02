@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/trashikagoyal/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-sort-an-array](https://github.com/trashikagoyal/LeetCode/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/trashikagoyal/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/trashikagoyal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/trashikagoyal/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1281-can-make-palindrome-from-substring](https://github.com/trashikagoyal/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/trashikagoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/trashikagoyal/LeetCode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/trashikagoyal/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/trashikagoyal/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/trashikagoyal/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/trashikagoyal/LeetCode/tree/master/1036-rotting-oranges) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/trashikagoyal/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
