@@ -261,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/trashikagoyal/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/trashikagoyal/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
