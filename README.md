@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trashikagoyal/LeetCode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/trashikagoyal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/trashikagoyal/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/trashikagoyal/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/trashikagoyal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/trashikagoyal/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/trashikagoyal/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/trashikagoyal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0726-number-of-atoms](https://github.com/trashikagoyal/LeetCode/tree/master/0726-number-of-atoms) |
 | [1281-can-make-palindrome-from-substring](https://github.com/trashikagoyal/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1449-print-words-vertically](https://github.com/trashikagoyal/LeetCode/tree/master/1449-print-words-vertically) |
